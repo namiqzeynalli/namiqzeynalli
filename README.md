@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Namiq Zeynalli
-- 🌱 I’m currently learning Front-end Web Development
+- 👨🏻‍💻 Front-End Developer | ReactJS
 - 📫 How to reach me : namiqzeynaalli@gmail.com
 
 <!---
